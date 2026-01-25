@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Khushi 👋
 
-<!--
-**Khushi-labs07/Khushi-labs07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Artificial Intelligence & Data Science (3rd Year)  
+📊 Aspiring Data Analyst | Machine Learning Enthusiast  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- SQL (Basics)
+- Machine Learning (Learning & Practicing)
+
+---
+
+### 📌 Currently Working On
+- Python fundamentals
+- Data Analytics projects
+- Machine Learning concepts with real datasets
+
+---
+
+### 🌱 Goal
+To build strong, practical skills in Data Analytics and AI through hands-on projects.
+
+---
+
+### 🔗 Connect with me
+- LinkedIn:https://www.linkedin.com/in/khushi-pardhi-10b48b372/
+
+⭐ This GitHub documents my learning journey and projects.
+
