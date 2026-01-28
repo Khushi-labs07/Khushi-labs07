@@ -32,7 +32,7 @@ I help turn data into meaningful insights by exploring patterns, understanding b
 ---
 
 ### 🔗 Connect with Me
-- LinkedIn: [Khushi Pardhi] (https://www.linkedin.com/in/khushi-pardhi-10b48b372/)  
+- LinkedIn: https://www.linkedin.com/in/khushi-pardhi-10b48b372/
 - Email: khushipardhi3009@gmail.com
 
 ---
