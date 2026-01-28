@@ -2,34 +2,39 @@
 
 🎓 B.Tech in Artificial Intelligence & Data Science (3rd Year)  
 📊 Aspiring Data Analyst | Human-Centered Insights  
-📍 India
+📍 India  
+
+I help turn data into meaningful insights by exploring patterns, understanding behavior, and creating actionable visual stories.
 
 ---
 
 ### 🔧 Skills & Tools
-- Python (Data Analysis)
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- SQL (Basics)
-- Excel (Basics)
+**Programming & Data Analysis:** Python (Pandas, NumPy)  
+**Visualization:** Matplotlib, Seaborn  
+**Databases:** SQL (Basics)  
+**Spreadsheets:** Excel (Basics)  
+**Other Tools:** Jupyter Notebook, Git & GitHub
 
 ---
 
 ### 🧠 What I Focus On
-- Exploratory Data Analysis (EDA) on real datasets
-- Understanding human behavior through data
-- Identifying patterns, trends, and insights
-- Presenting clear data stories and visualizations
+- Exploratory Data Analysis (EDA)  
+- Understanding people and behavior through data  
+- Identifying trends and insights  
+- Presenting clear data stories
 
 ---
 
 ### 🌱 Current Projects
-- [Student Study Habits Analysis](https://github.com/Khushi-labs07/eda-human-centered-projects) — Basic EDA using Python, Pandas, and Matplotlib
-- Python practice projects — Fundamental coding exercises
+- **Student Study Habit Analysis:** Explored patterns in student study routines using Python & Seaborn.  
+- **Human-Centered EDA:** Analyzed real-world datasets to extract actionable insights about user behavior.
 
 ---
 
-### 🔗 Connect with me
-- LinkedIn: https://www.linkedin.com/in/khushi-pardhi-10b48b372/
+### 🔗 Connect with Me
+- LinkedIn: [Khushi Pardhi](https://www.linkedin.com/in/khushi-pardhi-10b48b372/)  
+- Email: khushipardhi3009@gmail.com
 
-⭐ This GitHub showcases my learning and hands-on projects in Data Analytics and Human-Centered Insights. 
+---
+
+⭐ This GitHub showcases my learning journey, projects, and practical work in Data Analytics & Human-Centered Insights.
