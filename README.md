@@ -16,20 +16,20 @@
 ---
 
 ### 🧠 What I Focus On
-- Exploratory Data Analysis (EDA)
-- Understanding people and behavior through data
-- Identifying trends and insights
-- Presenting clear data stories
+- Exploratory Data Analysis (EDA) on real datasets
+- Understanding human behavior through data
+- Identifying patterns, trends, and insights
+- Presenting clear data stories and visualizations
 
 ---
 
 ### 🌱 Current Projects
-- Python for data analysis  
-- EDA projects on real-world datasets
+- [Student Study Habits Analysis](https://github.com/Khushi-labs07/eda-human-centered-projects) — Basic EDA using Python, Pandas, and Matplotlib
+- Python practice projects — Fundamental coding exercises
 
 ---
 
 ### 🔗 Connect with me
 - LinkedIn: https://www.linkedin.com/in/khushi-pardhi-10b48b372/
 
-⭐ This GitHub showcases my learning and projects in Data Analytics and Human-Centered Insights.
+⭐ This GitHub showcases my learning and hands-on projects in Data Analytics and Human-Centered Insights. 
