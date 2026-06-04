@@ -12,7 +12,7 @@ I help turn data into meaningful insights by exploring patterns, understanding b
 **Programming & Data Analysis:** Python (Pandas, NumPy)  
 **Visualization:** Matplotlib, Seaborn  
 **Databases:** SQL (Basics)  
-**Spreadsheets:** Excel (Basics)  
+**Spreadsheets:** Excel 
 **Other Tools:** Jupyter Notebook, Git & GitHub
 
 ---
